@@ -1,4 +1,4 @@
-### :snail: :rabbit2: sllewely :cat2: :bird:
+# :snail: :rabbit2: sllewely :cat2: :bird:
 
 Not looking for work probably, although have lots of side projects
 
