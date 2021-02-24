@@ -2,7 +2,7 @@
 
 Not looking for work probably, although have lots of side projects
 
-**Backend engineer** and hobbyist game dev.
+### NYC **Backend engineer** and hobbyist game dev.
 
 Languages/Frameworks:
 - Ruby, Ruby on Rails :heart_eyes_cat:
